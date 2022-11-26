@@ -1,8 +1,19 @@
+body{
+    background-color: #1C1C1C;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10em;
+}
+
 input{
-            background-color: black;
-            color: green;
-            text-align: center;
-            font-size: 100px;
-            width: 500px;
-            border: 2px solid gray;
-        }
+  background-color: black;
+  color: green;
+  text-align: center;
+  font-size: 100px;
+  width: 500px;
+  border: 2px solid gray;
+}
